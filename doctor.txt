@@ -1,0 +1,25 @@
+
+
+Doctor ID : 1719 
+Doctor Full Name : ruwan laksiri 
+Specialization : heart 
+Availability : monday 
+Contact Number : 0711668434 
+
+Doctor ID : 1718 
+Doctor Full Name : naveen rasanka 
+Specialization : head 
+Availability : friday 
+Contact Number : 071023230 
+
+Doctor ID : 1711 
+Doctor Full Name : kasun gunwardane 
+Specialization : eyes 
+Availability : tuesday 
+Contact Number : 07123237 
+
+Doctor ID : 1722 
+Doctor Full Name : kumara 
+Specialization : legs 
+Availability : thursday 
+Contact Number : 07123231 
